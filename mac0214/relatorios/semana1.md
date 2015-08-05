@@ -1,4 +1,0 @@
-##                    MAC0214 - Atividade Curricular em Cultura e Extensão - Semana 1
-
-Exercícios Resolvidos:
-  - [Copa do Mundo](../../TOBI/copadomundo.cpp)
