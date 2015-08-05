@@ -3,4 +3,4 @@
           ************************************************************************************/
 
 Exercícios Resolvidos:
-  - [Copa do Mundo](TOBI/copadomundo.cpp)
+  - [Copa do Mundo](../../TOBI/copadomundo.cpp)
