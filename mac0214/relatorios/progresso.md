@@ -9,6 +9,8 @@ Exercícios Resolvidos:
   - [Copa do Mundo](../../TOBI/copadomundo.cpp) em [SPOJ](http://br.spoj.com/problems/COPA1/)
   - [Bits Trocados](../../SPOJ/bitstrocados.cpp) em [SPOJ](http://br.spoj.com/problems/BIT/)
   - [Dentista](../../SPOJ/jdentist.cpp) em [SPOJ](http://br.spoj.com/problems/JDENTIST/)
+  - [Dark Roads](../../SPOJ/darkroads.cpp) em [SPOJ](http://www.spoj.com/problems/ULM09/)
+  - [Cobbled Roads](../../SPOJ/cobbledroads.cpp) em [SPOJ](http://www.spoj.com/problems/CSTREET/)
   
 Leituras:
   - [Greedy Algorithm](https://www.hackerearth.com/notes/greedy-algorithm/)
