@@ -13,3 +13,8 @@ Exercícios Resolvidos:
 Leituras:
   - [Greedy Algorithm](https://www.hackerearth.com/notes/greedy-algorithm/)
   - [Greedy is Good](https://www.topcoder.com/community/data-science/data-science-tutorials/greedy-is-good/)
+  
+Contests:
+  - [**Code Monk - Greedy Technique**](https://www.hackerearth.com/code-monk-greedy-technique/problems/) **em** [**HackerEarth**](https://www.hackerearth.com) **(2h30)**
+      - [Arjit and Printing Press](../../codemonk/greedy1.cpp)
+      - [Little Jhool and his addiction! (2)](../../codemonk/greedy4.cpp)
