@@ -8,3 +8,8 @@
 Exercícios Resolvidos:
   - [Copa do Mundo](../../TOBI/copadomundo.cpp) em [SPOJ](http://br.spoj.com/problems/COPA1/)
   - [Bits Trocados](../../SPOJ/bitstrocados.cpp) em [SPOJ](http://br.spoj.com/problems/BIT/)
+  - [Dentista](../../SPOJ/jdentist.cpp) em [SPOJ](http://br.spoj.com/problems/JDENTIST/)
+  
+Leituras:
+  - [Greedy Algorithm](https://www.hackerearth.com/notes/greedy-algorithm/)
+  - [Greedy is Good](https://www.topcoder.com/community/data-science/data-science-tutorials/greedy-is-good/)
