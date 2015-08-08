@@ -6,7 +6,7 @@
 ##I) Objetivos
   Os meus objetivos ao me matricular em MAC0214 são, principalmente, aprimorar meu raciocínio lógico e aumentar meus conhecimentos
 de programação em relação a algoritmos, estruturas de dados, entre outras coisas. Esse conhecimento pode, inclusive, ter um efeito
-colateral sobre as demais matérias de computação durante minha graduação, já que terei certa experiência diversos tópicos.
+colateral sobre as demais matérias de computação durante minha graduação, já que terei certa experiência em diversos tópicos.
 
 ##II) Métodos de estudo
   Para atingir os meus objetivos, resolverei problemas em online judges, lerei artigos e livros sobre os assuntos de interesse,
@@ -26,7 +26,7 @@ colateral sobre as demais matérias de computação durante minha graduação, j
 ##III) Acompanhamento
   Para acompanhar meu progresso ao longo do semestre, atualizarei meu [repositório no GitHub](https://github.com/viagostini/maratona) com os códigos dos problemas que eu resolver,
 juntamente com um [relatório](https://github.com/viagostini/maratona/blob/master/mac0214/relatorios/progresso.md) onde colocarei, em detalhes, o que foi feito em cada semana.
-  O modelo do relatório seguirá o seguinte modelo:
+  O relatório seguirá o seguinte modelo:
   >**Exercícios:**
   > - "Nome do problema" em "site"
   
