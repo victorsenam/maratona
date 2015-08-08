@@ -20,3 +20,7 @@ Contests:
   - [**Code Monk - Greedy Technique**](https://www.hackerearth.com/code-monk-greedy-technique/problems/) **em** [**HackerEarth**](https://www.hackerearth.com) **(2h30)**
       - [Arjit and Printing Press](../../codemonk/greedy1.cpp)
       - [Little Jhool and his addiction! (2)](../../codemonk/greedy4.cpp)
+      
+  - **Contest geral - MaratonIME** **(5h)**
+    - Nasty Hacks em [PKU](http://poj.org/problem?id=3030) (implementação trivial)
+    - [Card Trick](https://github.com/viagostini/maratona/blob/master/PKU/cardtrick.cpp) em [PKU](http://poj.org/problem?id=3032)
