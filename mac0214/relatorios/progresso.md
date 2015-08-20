@@ -1,4 +1,4 @@
-##                    MAC0214 - Atividade Curricular em Cultura e Extens√£o
+	#                    MAC0214 - Atividade Curricular em Cultura e Extens√£o
 
 ###√çndice
   - [Semana 1](#semana-1)
@@ -6,7 +6,8 @@
 
 ## Semana 1
 Exerc√≠cios Resolvidos:
-  - [Copa do Mundo](../../TOBI/copadomundo.cpp) em [SPOJ](http://br.spoj.com/problems/COPA1/)
+  - Se√√o Ad-Hoc em [TOBI](http://olimpiada.ic.unicamp.br/tobi/) 
+	- [Copa do Mundo](../../TOBI/copadomundo.cpp) em [SPOJ](http://olimpiada.ic.unicamp.br/tobi/problem/show/9/50)
   - [Bits Trocados](../../SPOJ/bitstrocados.cpp) em [SPOJ](http://br.spoj.com/problems/BIT/)
   - [Dentista](../../SPOJ/jdentist.cpp) em [SPOJ](http://br.spoj.com/problems/JDENTIST/)
   - [Dark Roads](../../SPOJ/darkroads.cpp) em [SPOJ](http://www.spoj.com/problems/ULM09/)
@@ -24,3 +25,9 @@ Contests:
   - **Contest geral - MaratonIME** **(5h)**
     - Nasty Hacks em [PKU](http://poj.org/problem?id=3030) (implementa√ß√£o trivial)
     - [Card Trick](https://github.com/viagostini/maratona/blob/master/PKU/cardtrick.cpp) em [PKU](http://poj.org/problem?id=3032)
+
+## Semana 2
+Exerc√cios Resolvidos:
+	- Se√√o Ad-Hoc em [TOBI](http://olimpiada.ic.unicamp.br/tobi/)
+   		 - [Supermercado](http://olimpiada.ic.unicamp.br/tobi/problem/show/9/117)
+Contests:
