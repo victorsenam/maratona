@@ -1,10 +1,3 @@
-/*--------------------------------------------------------*/
-/* Problema: Dentista (OBI2010, Fase 2, Nível Júnior)     */
-/* Categoria: Greedy                                      */
-/* Data: 06/08/2015                                       */
-/*--------------------------------------------------------*/
-
-
 #include <bits/stdc++.h>
 #define saida first
 #define entrada second

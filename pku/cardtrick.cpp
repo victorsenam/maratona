@@ -1,10 +1,3 @@
-/*----------------------------------------------------------*/
-/* Problema: Card Trick                                     */
-/* Categoria: Ad-Hoc                                        */
-/* Data: 07/08/2015                                         */
-/*----------------------------------------------------------*/
-
-#include <cstdio>
 #include <iostream>
 #define pb push_back
 #define mp make_pair

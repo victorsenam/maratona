@@ -1,10 +1,3 @@
-/*--------------------------------------------------------*/
-/* Problema: Bits Trocados (OBI2000)                      */
-/* Categoria: Greedy                                      */
-/* Data: 05/08/2015                                       */
-/*--------------------------------------------------------*/
-
-
 #include <bits/stdc++.h>
 #define mp make_pair
 #define pb push_back

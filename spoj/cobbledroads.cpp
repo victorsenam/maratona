@@ -1,9 +1,3 @@
-/*----------------------------------------------------------*/
-/* Problema: Cobbled Roads- CSTREET                         */
-/* Categoria: Graphs                                        */
-/* Data: 06/08/2015                                         */
-/*----------------------------------------------------------*/
-
 #include <bits/stdc++.h>
 #define weigth first
 #define vertex second

@@ -1,10 +1,3 @@
-/*--------------------------------------------------------*/
-/* Problema: Arjit and Printing Press                     */
-/* Categoria: Greedy                                      */
-/* Data: 06/08/2015                                       */
-/*--------------------------------------------------------*/
-
-
 #include <bits/stdc++.h>
 #define mp make_pair
 #define pb push_back

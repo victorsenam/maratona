@@ -1,8 +1,3 @@
-/*----------------------------------------------------------*/
-/* Problema: Dark Roads - ULM09                             */
-/* Categoria: Graphs                                        */
-/* Data: 06/08/2015                                         */
-/*----------------------------------------------------------*/
 #include <bits/stdc++.h>
 #define pb push_back
 #define mp make_pair

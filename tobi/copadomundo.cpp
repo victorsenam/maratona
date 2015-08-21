@@ -1,9 +1,3 @@
-/*--------------------------------------------------------*/
-/* Problema: Copa do Mundo (OBI2010, Nível 1, Fase 1)     */
-/* Categoria: Ad-Hoc                                      */
-/* Data: 05/08/2015                                       */
-/*--------------------------------------------------------*/
-
 #include <bits/stdc++.h>
 #define pb push_back
 #define ss second
