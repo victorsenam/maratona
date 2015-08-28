@@ -24,8 +24,9 @@ colateral sobre as demais matérias de computação durante minha graduação, j
   - Introduction to Algorithms de Thomas H. Cormen
   
 ##III) Acompanhamento
-  Para acompanhar meu progresso ao longo do semestre, atualizarei meu [repositório no GitHub](https://github.com/viagostini/maratona) com os códigos dos problemas que eu resolver,
-juntamente com um [relatório](https://github.com/viagostini/maratona/blob/master/mac0214/relatorios/progresso.md) onde colocarei, em detalhes, o que foi feito em cada semana.
+  O meu progresso durante o semestre poderá ser acompanhado através do meu perfil no [Ahmed Aly](http://a2oj.com/Profile.jsp?Username=vinicius.agostini).
+
+  Além disso, atualizarei meu [repositório no GitHub](https://github.com/viagostini/maratona) com os códigos dos problemas que eu resolver, juntamente com um [relatório](https://github.com/viagostini/maratona/blob/master/mac0214/relatorios/progresso.md) onde colocarei, em detalhes, o que foi feito em cada semana.
   O relatório seguirá o seguinte modelo:
   >**Exercícios:**
   > - "Nome do problema" em "site"
