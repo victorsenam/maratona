@@ -1,7 +1,7 @@
 #MAC0214 - Atividade Curricular em Cultura e Extensão
 
 ######Aluno: Vinicius Perche de Toledo Agostini
-######Professor: Carlos Eduardo Ferreira
+######Professors: Carlos Eduardo Ferreira, Daniel Batista e José Coelho de Pina
 
 ##I) Objetivos
   Os meus objetivos ao me matricular em MAC0214 são, principalmente, aprimorar meu raciocínio lógico e aumentar meus conhecimentos
