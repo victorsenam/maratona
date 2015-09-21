@@ -4,10 +4,13 @@
   - [Semana 1](#semana-1)
   - [Semana 2](#semana-2)
   - [Semana 3](#semana-3)
+  - [Semana 6](#semana-6)
+  - [Semana 7](#semana-7)
+  - [Semana 8](#semana-8)
 
 
 
-## Semana 1
+## Semana 1 (03 a 09 Agosto)
 **Exercícios Resolvidos:**
   - Seção Ad-Hoc em [TOBI](http://olimpiada.ic.unicamp.br/tobi/) 
 	- [Copa do Mundo](../../TOBI/copadomundo.cpp)
@@ -28,7 +31,7 @@
     - Nasty Hacks em [PKU](http://poj.org/problem?id=3030)
     - [Card Trick](https://github.com/viagostini/maratona/blob/master/PKU/cardtrick.cpp) em [PKU](http://poj.org/problem?id=3032)
 
-## Semana 2
+## Semana 2 (10 - 16 Agosto)
 **Exercícios Resolvidos:**
   - Seção Ad-Hoc em [TOBI](http://olimpiada.ic.unicamp.br/tobi/):
   	- [Supermercado](../../tobi/supermercado.cpp)
@@ -39,12 +42,16 @@
   - Time: [Não é a São Silvestre?](http://a2oj.com/Team.jsp?ID=2400)
   - Classificação: [#8](http://ime.usp.br/~maratona/assets/post_files/2015-08-18-resultados-seletiva/detailscore.html)
 
-## Semana 3
+## Semana 3 (17 a 23 Agosto)
 **Exercícios Resolvidos:**
  - Seção Ad-Hoc em [TOBI](http://olimpiada.ic.unicamp.br/tobi/):
   - [Temperatura Lunar](../../tobi/temperatura.cpp)
   - [Escada Rolante](../../tobi/rolante.cpp)
   - [Caça ao Tesouro](../../tobi/tesouro.cpp)
+ - Seção Guloso em [TOBI](http://olimpiada.ic.unicamp.br/tobi/)
+  - [Sorvete](../../tobi/sorvete.cpp)
+  - [Progressão Aritmética](../../tobi/pa.cpp)
+  - [Transporte de Contâiners](../../tobi/containers.cpp)
  - [Supernatural Squad](../../codemonk/supersquad.cpp) em [HackerEarth](https://www.hackerearth.com/problem/algorithm/supernatural-squad-2/)
  - [Vibhu and his Mathematics](../../codemonk/pd2.cpp) em [HackerEarth](https://www.hackerearth.com/code-monk-dynamic-programming/algorithm/vibhu-and-his-mathematics/)
  - [Dungeon Master](../../uva/dmaster.cpp) em [UVa](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=473)
@@ -53,5 +60,28 @@
 **Leituras:**
  - [Dynamic Programming](https://www.hackerearth.com/notes/dynamic-programming-i-1/)
 
+## Semana 6 (7 a 13 Setembro)
+[**Primeira Fase - Maratona de Programação da SBC**](http://maratona.ime.usp.br/prim-fase15/maratona.pdf) - **(5h)**
+  - Time: [Não é a São Silvestre?](http://a2oj.com/Team.jsp?ID=2400)
+  - Classificação: [#4](http://maratona.ime.usp.br/prim-fase15/saopaulo/Detailed_Scoreboard.pdf)
+  
+  - [Even Obsession](../../uva/evenobsession.cpp) em [UVa](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4829)
 
+## Semana 7 (14 a 20 Setembro)
 
+  - [Rectangle Park](../../uva/rectpark.cpp) em [UVa](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4836)
+  - [The Knapsack Problem](../../spoj/knapsackproblem.cpp) em [SPOJ](http://www.spoj.com/problems/KNAPSACK/)
+  - [Samu and Shopping](../../codemonk/samushop.cpp) em [HackerEarth](https://www.hackerearth.com/code-monk-dynamic-programming/algorithm/samu-and-shopping/)
+  - [Vibhu and his Mathematics](../../codemonk/vibhumath.cpp) em [HackerEarth](https://www.hackerearth.com/code-monk-dynamic-programming/algorithm/vibhu-and-his-mathematics/)
+  - [Monk in the Secret Service](../../codemonk/secretservice.cpp) em [HackerEarth](https://www.hackerearth.com/problem/algorithm/monk-in-the-secret-services/)
+  - [Mittal wants to go to play](../../codemonk/mittal.cpp) em [HackerEarth](https://www.hackerearth.com/problem/algorithm/mittal-wants-to-go-to-play/)
+  - [The Magical Shop](../../codemonk/nt1.cpp) em [HackerEarth](https://www.hackerearth.com/code-monk-number-theory-i/algorithm/the-magical-shop/)
+  - [Chandu and his Interns](../../codemonk/nt2.cpp) em [HackerEarth](https://www.hackerearth.com/code-monk-number-theory-i/algorithm/chandu-and-his-interns/)
+  - [The Confused Monk](../../codemonk/nt3.cpp) em [HackerEarth](https://www.hackerearth.com/code-monk-number-theory-i/algorithm/the-confused-monk/)
+  - [City and Flood](../../codemonk/cityandflood.cpp) em [HackerEarth](https://www.hackerearth.com/code-monk-disjoint-set-union/algorithm/city-and-flood-1/)
+  - [City and Fireman Vincent](../../codemonk/cityandfireman.cpp) em [HackerEarth](https://www.hackerearth.com/code-monk-disjoint-set-union/algorithm/city-and-fireman-vincent/)
+  - [City and Campers](../../codemonk/cityandcampers.cpp) em [HackerEarth](https://www.hackerearth.com/code-monk-disjoint-set-union/algorithm/city-and-campers/)
+
+## Semana 8 (21 - 27 Setembro)
+  - [Monk and the Islands](../../codemonk/monkislands.cpp) em [HackerEarth](https://www.hackerearth.com/problem/algorithm/monk-and-the-islands/)
+  - [City and Soldiers](../../codemonk/cityandsoldiers.cpp) em [HackerEarth](https://www.hackerearth.com/code-monk-disjoint-set-union/algorithm/city-and-soldiers/)
