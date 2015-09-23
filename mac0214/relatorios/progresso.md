@@ -61,11 +61,10 @@
  - [Dynamic Programming](https://www.hackerearth.com/notes/dynamic-programming-i-1/)
 
 ## Semana 6 (7 a 13 Setembro)
-[**Primeira Fase - Maratona de Programação da SBC**](http://maratona.ime.usp.br/prim-fase15/maratona.pdf) - **(5h)**
-  - Time: [Não é a São Silvestre?](http://a2oj.com/Team.jsp?ID=2400)
-  - Classificação: [#4](http://maratona.ime.usp.br/prim-fase15/saopaulo/Detailed_Scoreboard.pdf)
-  
-  - [Even Obsession](../../uva/evenobsession.cpp) em [UVa](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4829)
+- [**Primeira Fase - Maratona de Programação da SBC**](http://maratona.ime.usp.br/prim-fase15/maratona.pdf) - **(5h)**
+ - Time: [Não é a São Silvestre?](http://a2oj.com/Team.jsp?ID=2400)
+ - Classificação: [#4](http://maratona.ime.usp.br/prim-fase15/saopaulo/Detailed_Scoreboard.pdf)
+- [Even Obsession](../../uva/evenobsession.cpp) em [UVa](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4829)
 
 ## Semana 7 (14 a 20 Setembro)
 
@@ -85,6 +84,6 @@
 ## Semana 8 (21 - 27 Setembro)
   - [Kefa and First Steps](../../codeforces/321a.cpp) em [Codeforces](http://codeforces.com/contest/580/problem/A)
   - [Kefa and Park](../../codeforces/321c.cpp) em [Codeforces](http://codeforces.com/contest/580/problem/C)
-  - [Interval Product](../../livearchive/intprod.cpp) em [Codeforces](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4150)
+  - [Interval Product](../../livearchive/intprod.cpp) em [Live Archive](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4150)
   - [Monk and the Islands](../../codemonk/monkislands.cpp) em [HackerEarth](https://www.hackerearth.com/problem/algorithm/monk-and-the-islands/)
   - [City and Soldiers](../../codemonk/cityandsoldiers.cpp) em [HackerEarth](https://www.hackerearth.com/code-monk-disjoint-set-union/algorithm/city-and-soldiers/)
