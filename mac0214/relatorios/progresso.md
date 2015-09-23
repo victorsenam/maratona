@@ -83,5 +83,8 @@
   - [City and Campers](../../codemonk/cityandcampers.cpp) em [HackerEarth](https://www.hackerearth.com/code-monk-disjoint-set-union/algorithm/city-and-campers/)
 
 ## Semana 8 (21 - 27 Setembro)
+  - [Kefa and First Steps](../../codeforces/321a.cpp) em [Codeforces](http://codeforces.com/contest/580/problem/A)
+  - [Kefa and Park](../../codeforces/321c.cpp) em [Codeforces](http://codeforces.com/contest/580/problem/C)
+  - [Interval Product](../../livearchive/intprod.cpp) em [Codeforces](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4150)
   - [Monk and the Islands](../../codemonk/monkislands.cpp) em [HackerEarth](https://www.hackerearth.com/problem/algorithm/monk-and-the-islands/)
   - [City and Soldiers](../../codemonk/cityandsoldiers.cpp) em [HackerEarth](https://www.hackerearth.com/code-monk-disjoint-set-union/algorithm/city-and-soldiers/)
