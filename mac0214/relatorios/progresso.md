@@ -1,16 +1,17 @@
 #                    MAC0214 - Atividade Curricular em Cultura e Extensão
 
 ###Índice
-  - [Semana 1](#semana-1)
-  - [Semana 2](#semana-2)
-  - [Semana 3](#semana-3)
-  - [Semana 6](#semana-6)
-  - [Semana 7](#semana-7)
-  - [Semana 8](#semana-8)
+  - [Semana 1](#semana-1-3---9-agosto)
+  - [Semana 2](#semana-2-10---16-agosto)
+  - [Semana 3](#semana-3-17---23-agosto)
+  - [Semana 6](#semana-6-7---13-setembro)
+  - [Semana 7](#semana-7-14---20-setembro)
+  - [Semana 8](#semana-8-21---27-setembro)
+  - [Semana 9](#semana-9-28-de-setembro---03-de-outubro)
 
 
 
-## Semana 1 (03 a 09 Agosto)
+## Semana 1 (03 - 09 Agosto)
 **Exercícios Resolvidos:**
   - Seção Ad-Hoc em [TOBI](http://olimpiada.ic.unicamp.br/tobi/) 
 	- [Copa do Mundo](../../TOBI/copadomundo.cpp)
@@ -42,7 +43,7 @@
   - Time: [Não é a São Silvestre?](http://a2oj.com/Team.jsp?ID=2400)
   - Classificação: [#8](http://ime.usp.br/~maratona/assets/post_files/2015-08-18-resultados-seletiva/detailscore.html)
 
-## Semana 3 (17 a 23 Agosto)
+## Semana 3 (17 - 23 Agosto)
 **Exercícios Resolvidos:**
  - Seção Ad-Hoc em [TOBI](http://olimpiada.ic.unicamp.br/tobi/):
   - [Temperatura Lunar](../../tobi/temperatura.cpp)
@@ -60,13 +61,13 @@
 **Leituras:**
  - [Dynamic Programming](https://www.hackerearth.com/notes/dynamic-programming-i-1/)
 
-## Semana 6 (7 a 13 Setembro)
+## Semana 6 (7 - 13 Setembro)
 - [**Primeira Fase - Maratona de Programação da SBC**](http://maratona.ime.usp.br/prim-fase15/maratona.pdf) - **(5h)**
  - Time: [Não é a São Silvestre?](http://a2oj.com/Team.jsp?ID=2400)
  - Classificação: [#4](http://maratona.ime.usp.br/prim-fase15/saopaulo/Detailed_Scoreboard.pdf)
 - [Even Obsession](../../uva/evenobsession.cpp) em [UVa](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4829)
 
-## Semana 7 (14 a 20 Setembro)
+## Semana 7 (14 - 20 Setembro)
 
   - [Rectangle Park](../../uva/rectpark.cpp) em [UVa](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4836)
   - [The Knapsack Problem](../../spoj/knapsackproblem.cpp) em [SPOJ](http://www.spoj.com/problems/KNAPSACK/)
@@ -82,8 +83,18 @@
   - [City and Campers](../../codemonk/cityandcampers.cpp) em [HackerEarth](https://www.hackerearth.com/code-monk-disjoint-set-union/algorithm/city-and-campers/)
 
 ## Semana 8 (21 - 27 Setembro)
+  - [Update the array !](../../spoj/updateit.cpp) em [SPOJ](http://www.spoj.com/problems/UPDATEIT/)
+  - [Inversion Count](../../spoj/invcount.cpp) em [SPOJ](http://www.spoj.com/problems/INVCNT/)
   - [Kefa and First Steps](../../codeforces/321a.cpp) em [Codeforces](http://codeforces.com/contest/580/problem/A)
   - [Kefa and Park](../../codeforces/321c.cpp) em [Codeforces](http://codeforces.com/contest/580/problem/C)
   - [Interval Product](../../livearchive/intprod.cpp) em [Live Archive](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4150)
   - [Monk and the Islands](../../codemonk/monkislands.cpp) em [HackerEarth](https://www.hackerearth.com/problem/algorithm/monk-and-the-islands/)
   - [City and Soldiers](../../codemonk/cityandsoldiers.cpp) em [HackerEarth](https://www.hackerearth.com/code-monk-disjoint-set-union/algorithm/city-and-soldiers/)
+
+## Semana 9 (28 de Setembro - 03 de Outubro)
+-[**Codeforces Round #322 (Div.2) - Virtual Participation (2h)**](http://codeforces.com/contest/581)
+ - [Vasya the Hipster](../../codeforces/322a.cpp)
+ - [Luxurious Houses](../../codeforces/322b.cpp)
+ - [Developing Skills](../../codeforces/322c.cpp)
+- [Ball](../../codeforces/ball.cpp) em [Codeforces](http://codeforces.com/problemset/problem/12/D)
+
