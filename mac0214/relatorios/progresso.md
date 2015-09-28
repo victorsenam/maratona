@@ -11,7 +11,7 @@
 
 
 
-## Semana 1 (03 - 09 Agosto)
+## Semana 1 (3 - 9 Agosto)
 **Exercícios Resolvidos:**
   - Seção Ad-Hoc em [TOBI](http://olimpiada.ic.unicamp.br/tobi/) 
 	- [Copa do Mundo](../../TOBI/copadomundo.cpp)
@@ -65,6 +65,7 @@
 - [**Primeira Fase - Maratona de Programação da SBC**](http://maratona.ime.usp.br/prim-fase15/maratona.pdf) - **(5h)**
  - Time: [Não é a São Silvestre?](http://a2oj.com/Team.jsp?ID=2400)
  - Classificação: [#4](http://maratona.ime.usp.br/prim-fase15/saopaulo/Detailed_Scoreboard.pdf)
+
 - [Even Obsession](../../uva/evenobsession.cpp) em [UVa](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4829)
 
 ## Semana 7 (14 - 20 Setembro)
@@ -92,9 +93,10 @@
   - [City and Soldiers](../../codemonk/cityandsoldiers.cpp) em [HackerEarth](https://www.hackerearth.com/code-monk-disjoint-set-union/algorithm/city-and-soldiers/)
 
 ## Semana 9 (28 de Setembro - 03 de Outubro)
--[**Codeforces Round #322 (Div.2) - Virtual Participation (2h)**](http://codeforces.com/contest/581)
- - [Vasya the Hipster](../../codeforces/322a.cpp)
- - [Luxurious Houses](../../codeforces/322b.cpp)
- - [Developing Skills](../../codeforces/322c.cpp)
+- [**Codeforces Round #322 (Div.2)**](http://codeforces.com/contest/581) - Virtual Participation - **(2h)**
+  - [Vasya the Hipster](../../codeforces/322a.cpp)
+  - [Luxurious Houses](../../codeforces/322b.cpp)
+  - [Developing Skills](../../codeforces/322c.cpp)
+
 - [Ball](../../codeforces/ball.cpp) em [Codeforces](http://codeforces.com/problemset/problem/12/D)
 
