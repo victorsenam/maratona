@@ -6,9 +6,7 @@ const int MAX = 100005;
 int main(){
 	int n, k, a[MAX], r[MAX];
 
-	scanf("%d %d", &n, &k);
-
-	int mini = 10, mini_ind, mini_num;
+	scanf("%d %d", &n, &k)
 
 	int sum = 0;
 	for(int i = 0; i < n; i++){
