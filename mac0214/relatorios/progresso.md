@@ -57,6 +57,7 @@
  - [Vibhu and his Mathematics](../../codemonk/pd2.cpp) em [HackerEarth](https://www.hackerearth.com/code-monk-dynamic-programming/algorithm/vibhu-and-his-mathematics/)
  - [Dungeon Master](../../uva/dmaster.cpp) em [UVa](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=473)
  - [Letras](../../uri/letras.cpp) em [URI](https://www.urionlinejudge.com.br/judge/en/problems/view/1714)
+ - [Preparing Olympiad](../../codeforces/550b.cpp) em [Codeforces](http://codeforces.com/problemset/problem/550/B)
 
 **Leituras:**
  - [Dynamic Programming](https://www.hackerearth.com/notes/dynamic-programming-i-1/)
@@ -93,10 +94,20 @@
   - [City and Soldiers](../../codemonk/cityandsoldiers.cpp) em [HackerEarth](https://www.hackerearth.com/code-monk-disjoint-set-union/algorithm/city-and-soldiers/)
 
 ## Semana 9 (28 de Setembro - 03 de Outubro)
+**Exercícios Resolvidos:**
+- [Ball](../../codeforces/ball.cpp) em [Codeforces](http://codeforces.com/problemset/problem/12/D)
+- [Sereja and Suffixes](../../codeforces/368b.cpp) em [Codeforces](http://codeforces.com/problemset/problem/368/B)
+- [Non-divisible 2-3 Power Sums](../../livearchive/3573.cpp) em [Live Archive](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1574)
+
+**Contests:**
 - [**Codeforces Round #322 (Div.2)**](http://codeforces.com/contest/581) - Virtual Participation - **(2h)**
   - [Vasya the Hipster](../../codeforces/322a.cpp)
   - [Luxurious Houses](../../codeforces/322b.cpp)
   - [Developing Skills](../../codeforces/322c.cpp)
-
-- [Ball](../../codeforces/ball.cpp) em [Codeforces](http://codeforces.com/problemset/problem/12/D)
+- [**Contest MaratonIME (Bixos)**](http://a2oj.com/Standings.jsp?ID=21354) - **(5h)**
+  - [Plane Ticket Pricing](../../livearchive/6867.cpp) em [Live Archive](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=666&page=show_problem&problem=4879)
+  - [Eligibility](../../livearchive/6866.cpp) em [Live Archive](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=666&page=show_problem&problem=4878)
+  - [Facility Locations](../../livearchive/6868.cpp) em [Live Archive](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=666&page=show_problem&problem=4880)
+  - [Permutation Recovery](../../livearchive/3579.cpp) em [Live Archive](https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge&page=show_problem&problem=1580)
+  - [The day of the competitors](../../spoj/niceday.cpp) em [SPOJ](http://br.spoj.com/problems/NICEDAY/)
 
